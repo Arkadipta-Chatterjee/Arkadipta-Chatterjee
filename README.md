@@ -8,7 +8,7 @@
   
 </div>
 
-- ⚡ I'm a fourth year undergrad student of Electrical Engineering(Dual Degree) at [IIT Bhubaneswar](https://www.iitbbs.ac.in/).
+- ⚡ I'm an Electrical Engineering(Dual Degree)undergraduate at [IIT Bhubaneswar](https://www.iitbbs.ac.in/).
 - 🌱 I have future interests in Management sector and am immediately interested in Software and Product Management roles..
 - 📫 Reach me @: arkadiptachatterjee@gmail.com| ac29@iitbbs.ac.in
 
